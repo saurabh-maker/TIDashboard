@@ -25,7 +25,6 @@
 
     <iframe
         src="https://script.google.com/macros/s/AKfycbyjT_KMvafSu8BNLJcTVLV5GTdi4h20MCeUOZIS4nWQto3AmYOMp__EE-hVrSbAX-wy/exec"
-        sandbox="allow-scripts allow-same-origin allow-forms"
     ></iframe>
 
 </body>
